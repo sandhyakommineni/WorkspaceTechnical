@@ -1,0 +1,28 @@
+https://github.com/sandhyakommineni/WorkspaceTechnical.git
+
+$ git clone https://github.com/sandhyakommineni/WorkspaceTechnical.git
+
+$ ls
+HelloWorldProject/  WorkspaceTechnical/
+
+$ cd WorkspaceTechnical/
+
+$ ls
+Hello.txt  README.md
+
+This command is to add files to git
+$ git add .
+
+This command is used to add file to stage environment
+$ git commit -am "Hello file created"
+
+This command is used to push code to remote repository
+$ git push origin main
+
+
+
+https://github.com/sandhyakommineni/java-testng-framework.git
+
+$ git clone https://github.com/sandhyakommineni/java-testng-framework.git
+
+
